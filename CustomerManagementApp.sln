@@ -5,7 +5,7 @@ VisualStudioVersion = 17.3.32804.467
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerManagementApp", "CustomerManagementApp.csproj", "{3578B185-0406-43BC-98EA-E81415CFA5AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerManagementApp.Core", "..\CustomerManagementApp.Core\CustomerManagementApp.Core.csproj", "{3D0215DC-8D5E-450A-ABB7-F08E484A31FB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerManagementApp.Core", "CustomerManagementApp.Core\CustomerManagementApp.Core.csproj", "{3D0215DC-8D5E-450A-ABB7-F08E484A31FB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
